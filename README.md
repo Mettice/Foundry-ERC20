@@ -17,19 +17,16 @@ This repository contains a Solidity project for creating and testing an ERC20 to
 
 ## Usage
 1. **Compilation**:
-   ```bash
+ 
    forge build
 
 
 Run Tests:
 
-bash
-Copy code
 forge test
 Run Coverage:
 
-bash
-Copy code
+
 forge coverage
 Deployment:
 
